@@ -1,0 +1,17 @@
+company,job,degree,salary_more_then_100k
+twitter,software engineer,bachelors,1
+twitter,software engineer,masters,0
+twitter,data analyst,bachelors,1
+twitter,data analyst,masters,1
+twitter,product manager,bachelors,0
+twitter,product manager,masters,1
+microsoft,software engineer,masters,0
+microsoft,software engineer,bachelors,0
+microsoft,marketing manager,bachelors,0
+microsoft,marketing manager,masters,1
+apple,sales executive,bachelors,1
+apple,sales executive,masters,1
+apple,marketing manager,bachelors,1
+apple,marketing manager,masters,1
+apple,software engineer,bachelors,1
+apple,software engineer,masters,1
